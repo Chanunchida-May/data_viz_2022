@@ -26,4 +26,4 @@ Group name: Fatefuness
 * [Final](https://github.com/Chanunchida-May/data_viz_2022/blob/main/FinalExam.ipynb) *
 
 ### Google data Studio
-* [dashboard Final]() *
+* [dashboard Final](https://datastudio.google.com/s/lK0FS0XbFzs) *
