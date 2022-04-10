@@ -10,7 +10,7 @@ Group name: กลุ่มนั้น
 * [Canva](ใส่ลิ้งค์) *
 
 ### Colab
-* [Project](ใส่ลิ้งค์ตัวเอง) *
+* [Project](https://github.com/Chanunchida-May/data_viz_2022/blob/main/ProjectDashBoard.ipynb) *
 
 ### Google data Studio
-* [ตั้งชื่อจะให้แสดงว่าอะไร อันนี้ลิ้งค์เดียวกันก้อปไปได้เลย](https://datastudio.google.com/reporting/1288b74c-eaff-4ed3-af5d-74c9ecc2e292) *
+* [dashboard](https://datastudio.google.com/reporting/1288b74c-eaff-4ed3-af5d-74c9ecc2e292) *
