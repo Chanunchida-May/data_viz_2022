@@ -14,3 +14,16 @@ Group name: กลุ่มนั้น
 
 ### Google data Studio
 * [dashboard](https://datastudio.google.com/reporting/1288b74c-eaff-4ed3-af5d-74c9ecc2e292) *
+
+## Final Fatefuness 
+Group name: Fatefuness 
+1.นางสาวชนัญชิดา เมธีกุลมานิต 623020516-1 สารสนเทศสถิติ
+2.นางสาวเขมอัปสร สอนแก้ว   623020731-7 สถิติ
+3.นางสาวทักษิณา ราชหุ่น 623021000-1 สถิติ
+4.นายศุภกร บุญยศาสตร์ 623021008-5 สถิติ
+
+### Colab
+* [Project]() *
+
+### Google data Studio
+* [dashboard]() *
