@@ -23,7 +23,7 @@ Group name: Fatefuness
 4.นายศุภกร บุญยศาสตร์ 623021008-5 สถิติ
 
 ### Colab
-* [Project]() *
+* [Final](https://github.com/Chanunchida-May/data_viz_2022/blob/main/FinalExam.ipynb) *
 
 ### Google data Studio
-* [dashboard]() *
+* [dashboard Final]() *
